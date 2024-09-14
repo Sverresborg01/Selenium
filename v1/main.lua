@@ -1,4 +1,7 @@
 -- FPS Limiter Settings
+
+print("Worked")
+
 local targetFPS = 300 -- Set this to limit FPS (2 FPS in this case)
 local frameDelay = 1 / targetFPS
 
