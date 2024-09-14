@@ -2,7 +2,7 @@
 
 print("Worked")
 
-local targetFPS = 300 -- Set this to limit FPS (2 FPS in this case)
+local targetFPS = 1 -- Set this to limit FPS (2 FPS in this case)
 local frameDelay = 1 / targetFPS
 
 -- RunService to handle frame updates
